@@ -1,3 +1,3 @@
 # animated-responsive-website using react and gsap
 
-run yarn start
+run yarn start or npm start
